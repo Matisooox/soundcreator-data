@@ -1,10 +1,21 @@
+]
 [
   {
-    "username": "matisooo",
-    "password": "Matisooo12",
+    "username": "admin",
+    "password": "admin123",
     "license": "lifetime",
-    "created": "2024-05-25",
-    "expires": "never",
-    "admin": true
+    "admin": true,
+    "owner": false,
+    "banned": false,
+    "discord_id": "admin#0001"
+  },
+  {
+    "username": "superadmin",
+    "password": "superpass",
+    "license": "lifetime",
+    "admin": true,
+    "owner": true,
+    "banned": false,
+    "discord_id": "owner#0001"
   }
 ]
